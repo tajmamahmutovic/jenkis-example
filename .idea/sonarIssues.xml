@@ -8,6 +8,121 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../amrap/nrs-t2/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/tutorijal/jenkins/sample/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-business/src/main/java/com/datalex/tdp/ndc/servicefactory/ReservationSearchServiceFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-common/src/main/java/com/datalex/tdp/ndc/config/ClientProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-common/src/main/java/com/datalex/tdp/ndc/config/ReservationSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/main/java/com/datalex/tdp/ndc/endpoint/ndc152/orderlist/OrderListHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/main/java/com/datalex/tdp/ndc/endpoint/ndc181/orderlist/OrderListHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/main/resources/ndc-service-customer.yml.jinja">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/main/resources/ndc-service.yml.jinja">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-endpoint/src/test/java/com/datalex/tdp/ndc/endpoint/ndc152/orderlist/OrderListHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-release/src/main/resources/docs/administration/Datalex_NDC_Configuration_Guide.adoc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-release/src/main/resources/ndc-service.example">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation-152/src/main/java/com/datalex/tdp/ndc/transformation/ndc152/orderlist/Filters2SearchRQ.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation-152/src/main/java/com/datalex/tdp/ndc/transformation/ndc152/orderlist/OrderListRQ2ReservationSearchSv.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation-152/src/main/java/com/datalex/tdp/ndc/transformation/ndc152/orderlist/ReservationSearchSvRS2OrderListRS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation-181/src/main/java/com/datalex/tdp/ndc/transformation/ndc181/orderlist/OrderFilterCriteriaType2SearchRQ.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation-181/src/main/java/com/datalex/tdp/ndc/transformation/ndc181/orderlist/OrderListRQ2ReservationSearchSvRQ.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation/src/main/java/com/datalex/tdp/ndc/transformation/common/orderlist/BaseOrderFilters2SearchRQ.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ndc-server/ndc-transformation/src/main/java/com/datalex/tdp/ndc/transformation/common/orderlist/BaseOrderListRQ2ReservationSearchSv.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
